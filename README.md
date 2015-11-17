@@ -32,9 +32,13 @@ public static string printList<T>(this IList<T> list)
 ```
 
 Информация о паттернах методов расширения:
+
 [Extension Methods Patterns Video](https://www.youtube.com/watch?v=YvRm-0jrN8c)
+
 [Article in blog](https://nesteruk.wordpress.com/2010/03/22/extension-method-patterns/)
 
 Немного о монадах в тему методов расширения:
+
 [Maybe monad in C#](https://www.youtube.com/watch?v=-bMPUBPwtSg)
+
 [Chained null checks and the maybe monad](http://devtalk.net/2010/09/12/chained-null-checks-and-the-maybe-monad/)
